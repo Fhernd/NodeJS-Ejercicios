@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-ejercicios",
+  "version": "1.0.0",
+  "description": "Ejercicios de NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fhernd/NodeJS-Ejercicios.git"
+  },
+  "keywords": [
+    "ejercicios",
+    "nodejs",
+    "programación",
+    "code",
+    "código"
+  ],
+  "author": "John Ortiz Ordoñez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fhernd/NodeJS-Ejercicios/issues"
+  },
+  "homepage": "https://github.com/Fhernd/NodeJS-Ejercicios#readme"
+}
