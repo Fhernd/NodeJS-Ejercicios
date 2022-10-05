@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "cap001ej11": "node ./cap001_intro/ej01_servidor_http/hello.js",
-    "cap001ej12": "node ./cap001_intro/ej02_hola/saludo.js"
+    "cap001ej12": "node ./cap001_intro/ej02_hola/saludo.js",
+    "cap001ej13": "node ./cap001_intro/ej03_hola_express/hola.js"
   },
   "repository": {
     "type": "git",
@@ -24,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/Fhernd/NodeJS-Ejercicios/issues"
   },
-  "homepage": "https://github.com/Fhernd/NodeJS-Ejercicios#readme"
+  "homepage": "https://github.com/Fhernd/NodeJS-Ejercicios#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
