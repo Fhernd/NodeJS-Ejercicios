@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "cap001ej11": "node ./cap001_intro/ej01_servidor_http/hello.js",
     "cap001ej12": "node ./cap001_intro/ej02_hola/saludo.js",
-    "cap001ej13": "node ./cap001_intro/ej03_hola_express/hola.js"
+    "cap001ej13": "node ./cap001_intro/ej03_hola_express/hola.js",
+    "cap001ej14": "node ./cap001_intro/ej04_sumar/calculadora.js"
   },
   "repository": {
     "type": "git",
