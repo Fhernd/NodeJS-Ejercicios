@@ -8,7 +8,8 @@
     "cap001ej11": "node ./cap001_intro/ej01_servidor_http/hello.js",
     "cap001ej12": "node ./cap001_intro/ej02_hola/saludo.js",
     "cap001ej13": "node ./cap001_intro/ej03_hola_express/hola.js",
-    "cap001ej14": "node ./cap001_intro/ej04_sumar/calculadora.js"
+    "cap001ej14": "node ./cap001_intro/ej04_sumar/calculadora.js",
+    "cap001ej16": "node ./cap001_intro/ej06_routing/solicitudes.js"
   },
   "repository": {
     "type": "git",
